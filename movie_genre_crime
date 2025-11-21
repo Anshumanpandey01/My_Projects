@@ -1,0 +1,13 @@
+Movie Genre Impact on Crime – Data Analysis Project
+
+This project analyzes how different movie genres may correlate with crime trends over multiple years. Using datasets of movie genres and crime statistics, the project includes:
+
+Year-wise crime comparison with genre popularity
+
+Visual graphs showing potential trends
+
+Heatmaps to identify correlations
+
+Insights about whether certain genres show higher association with crime patterns
+
+The goal of the analysis is to explore if movie content has any observable influence on real-world crime, using data visualization and statistical techniques.
